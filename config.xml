@@ -4,12 +4,12 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.kadibu.drestein17"
-        version   = "1.5.0">
+        version   = "2">
 
-    <name>Drestein 17 v2.0</name>
+    <name>Drestein 17</name>
 
     <description>
-A National level Technical Symposium  </description>
+A National level Technical Symposium</description>
 
     <author href="http://drestein.in" email="rduraisankar@gmail.com">
        Durai Sankar
