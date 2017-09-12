@@ -53,7 +53,6 @@ A National level Technical Symposium  </description>
     
   
     
-    <plugin name="cordova-plugin-splashscreen" />
 
     <!-- Third party plugins -->
     <!-- A list of available plugins are available at https://build.phonegap.com/plugins -->
