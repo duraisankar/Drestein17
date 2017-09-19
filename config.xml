@@ -4,9 +4,9 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.kadibu.drestein17"
-        version   = "2">
+        version   = "4">
 
-    <name>Drestein 17</name>
+    <name>Drestein 17 v2.0</name>
 
     <description>
 A National level Technical Symposium</description>
